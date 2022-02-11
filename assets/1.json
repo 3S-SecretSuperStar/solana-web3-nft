@@ -1,0 +1,19 @@
+{
+  "name": "Anime hero #2",
+  "symbol": "AH",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "2REco4ygAL5Lf5hXJk8r9saCjX78EFn97J9FaoaAw6kR",
+        "share": 100
+      }
+    ]
+  }
+}
